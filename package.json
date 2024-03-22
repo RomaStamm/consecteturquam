@@ -1,0 +1,30 @@
+{
+  "name": "consecteturquam",
+  "version": "1.0.0",
+  "description": "N-Triples serializer that implements the RDFJS Sink Interfaces",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RomaStamm/consecteturquam.git"
+  },
+  "keywords": [
+    "esse",
+    "rdfjs",
+    "libero",
+    "ab",
+    "totam",
+    "stream"
+  ],
+  "author": "RobynKoss",
+  "license": "MIT",
+  "homepage": "https://github.com/RomaStamm/consecteturquam.git",
+  "dependencies": {
+    "rdf-sink": "^1.0.0",
+    "readable-stream": "^2.2.6"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "rdf-ext": "^1.0.0",
+    "standard": "^9.0.2"
+  }
+}
